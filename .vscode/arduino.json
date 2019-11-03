@@ -1,3 +1,5 @@
 {
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:uno",
+    "sketch": "MicrophoneTest/MicrophoneTest.ino",
+    "port": "/dev/cu.usbmodem14501"
 }
